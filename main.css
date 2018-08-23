@@ -247,4 +247,5 @@ p {
 
 .box6 p, .box7 p {
   width: 600px;
+  margin: 0 auto;
 }
